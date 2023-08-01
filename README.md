@@ -47,6 +47,7 @@ Processor:	11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz, 1690 Mhz, 4 Core(s), 
 Installed Physical Memory (RAM):	16.0 GB
 
 CLUSTER_2DFIT.py: ~ 1.5 hrs
+
 DENTICLE_PLOTTER.py: ~ 0.2-0.3 s
 
 The Python files within this folder can be ran either by opening the file in the Anaconda distribution of Python and clicking the ‘run’ button or directly from the command line using 'python3.9 filename.py'.
