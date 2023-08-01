@@ -6,12 +6,15 @@ This readme file describes Python code associated with the manuscript 'Iron-coat
 **FILE OVERVIEW – THESE FILES ARE FOR DEMO PURPOSES**
 
 **File:** CLUSTER_2DFIT.py
+
 **Description:** Python file to conduct PCA and K-means clustering on the ‘caked’ X-ray diffraction data and fit 2D Pseudo-Voigt peaks with a plane background on to the (002) diffraction peak(s). The ‘caked’ data was exported using the [DAWN software package] (https://dawnsci.org/). Fitting parameters are stored within an array and outputted for visualising data in DENTICLE_PLOTTER.py. Here, the script is set to read data corresponding to sample UALVP 53472 - region PD-ROI2.
 
 **File:** DENTICLE_PLOTTER.py
+
 **Description:** A file to visualise the crystallographic c lattice parameters, texture and preferred orientation (obtained from intensity arcs in the (002) diffraction peaks) for the constituent crystallite populations obtained from the fitting of the ‘caked’ X-ray diffraction data performed by CLUSTER_2DFIT.py.
 
 **File(s):**.dat demo files
+
 **Description:** Example files of pre-processed ‘caked’ X-ray diffraction data about the (002) diffraction peak(s) for running cluster analysis and 2D peak fitting with the CLUSTER_2DFIT.py file. The files have the following naming convention;
 
 ipp_313745_i_[;3056,;3056]_00000_T 
@@ -49,6 +52,7 @@ DENTICLE_PLOTTER.py: ~ 0.2-0.3 s
 The Python files within this folder can be ran either by opening the file in the Anaconda distribution of Python and clicking the ‘run’ button or directly from the command line using 'python3.9 filename.py'.
 
 **DEMO INSTRUCTIONS:**
+
 After installing the relevant software:
 1.	Download the ‘caked’ X-ray diffraction .dat files.
 2.	Open the file CLUSTER_2DFIT.py in a text editor and change the directory path in BLOCK 3 to where the .dat files have been stored.
