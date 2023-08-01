@@ -43,7 +43,9 @@ The Anaconda installation of Python takes approximately 15-20 minutes typically 
 **EXPECTED SCRIPT RUN TIME:**
 
 Run times for the respective .py files are reported using a laptop with; 
+
 Processor:	11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz, 1690 Mhz, 4 Core(s), 8 Logical Processor(s)
+
 Installed Physical Memory (RAM):	16.0 GB
 
 CLUSTER_2DFIT.py: ~ 1.5 hrs
