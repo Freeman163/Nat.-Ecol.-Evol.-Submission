@@ -7,7 +7,7 @@ This readme file describes Python code associated with the manuscript 'Iron-coat
 
 **File:** CLUSTER_2DFIT.py
 
-**Description:** Python file to conduct PCA and K-means clustering on the ‘caked’ X-ray diffraction data and fit 2D Pseudo-Voigt peaks with a plane background on to the (002) diffraction peak(s). The ‘caked’ data was exported using the [DAWN software package] (https://dawnsci.org/). Fitting parameters are stored within an array and outputted for visualising data in DENTICLE_PLOTTER.py. Here, the script is set to read data corresponding to sample UALVP 53472 - region PD-ROI2.
+**Description:** Python file to conduct PCA and K-means clustering on the ‘caked’ X-ray diffraction data and fit 2D Pseudo-Voigt peaks with a plane background on to the (002) diffraction peak(s). The ‘caked’ data was exported using the DAWN software package (https://dawnsci.org/). Fitting parameters are stored within an array and outputted for visualising data in DENTICLE_PLOTTER.py. Here, the script is set to read data corresponding to sample UALVP 53472 - region PD-ROI2.
 
 **File:** DENTICLE_PLOTTER.py
 
