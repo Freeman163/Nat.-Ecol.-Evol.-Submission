@@ -22,7 +22,8 @@ Please also find the file PD_ROI2_2D_FIT_DATA.csv, which is the output array fro
 
 **SOFTWARE DEPENDENCIES:**
 
-To run the scripts, Python needs to be installed. These scripts have been composed and tested on Python 3.9.12, via the Anaconda installation. Installation instructions for the Anaconda distribution of Python can be found here: (https://www.anaconda.com/download)
+To run the scripts, Python needs to be installed. These scripts have been composed and tested on Python 3.9.12, via the Anaconda installation. Installation instructions for the Anaconda distribution of Python can be found here: (https://www.anaconda.com/download).
+
 The Python scripts were run using the following modules;
 
 Numpy 1.21.5
