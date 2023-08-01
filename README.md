@@ -30,8 +30,11 @@ To run the scripts, Python needs to be installed. These scripts have been compos
 The Python scripts were run using the following modules;
 
 Numpy 1.21.5
+
 Matplotlib 3.5.1
+
 Scipy 1.7.3
+
 Sklearn 1.0.2
 
 The Python scripts have been tested on Windows 10.
