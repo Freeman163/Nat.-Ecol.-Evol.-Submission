@@ -6,7 +6,7 @@ This readme file describes Python code associated with the manuscript 'Iron-coat
 **FILE OVERVIEW – THESE FILES ARE FOR DEMO PURPOSES**
 
 **File:** CLUSTER_2DFIT.py
-**Description:** Python file to conduct PCA and K-means clustering on the ‘caked’ X-ray diffraction data and fit 2D Pseudo-Voigt peaks with a plane background on to the (002) diffraction peak(s). The ‘caked’ data was exported using the [DAWN software package] (https://dawnsci.org/). Fitting parameters are stored within an array and outputted for visualising data in DENTICLE_PLOTTER.py. Here, the script is setup to read data corresponding to sample region PD-ROI2.
+**Description:** Python file to conduct PCA and K-means clustering on the ‘caked’ X-ray diffraction data and fit 2D Pseudo-Voigt peaks with a plane background on to the (002) diffraction peak(s). The ‘caked’ data was exported using the [DAWN software package] (https://dawnsci.org/). Fitting parameters are stored within an array and outputted for visualising data in DENTICLE_PLOTTER.py. Here, the script is set to read data corresponding to sample UALVP 53472 - region PD-ROI2.
 
 **File:** DENTICLE_PLOTTER.py
 **Description:** A file to visualise the crystallographic c lattice parameters, texture and preferred orientation (obtained from intensity arcs in the (002) diffraction peaks) for the constituent crystallite populations obtained from the fitting of the ‘caked’ X-ray diffraction data performed by CLUSTER_2DFIT.py.
@@ -33,7 +33,9 @@ Sklearn 1.0.2
 
 The Python scripts have been tested on Windows 10.
 
-**EXPECTED INSTALLATION TIME:** The Anaconda installation of Python takes approximately 15-20 minutes typically to install, but this will vary according to the specifications of the computer.
+**EXPECTED INSTALLATION TIME:** 
+
+The Anaconda installation of Python takes approximately 15-20 minutes typically to install, but this will vary according to the specifications of the computer.
 
 **EXPECTED SCRIPT RUN TIME:**
 
