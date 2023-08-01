@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 27 21:02:23 2023
-
-@author: hdx029
-"""
 
 """ BLOCK 1. IMPORT PYTHON MODULES FOR MAIN SECTION OF SCRIPT"""
 import os
