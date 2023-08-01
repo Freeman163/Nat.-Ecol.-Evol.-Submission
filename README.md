@@ -64,5 +64,5 @@ After installing the relevant software:
 2.	Open the file CLUSTER_2DFIT.py in a text editor and change the directory path in BLOCK 3 to where the .dat files have been stored.
 3.	Run CLUSTER_2DFIT.py.
 4.	Download the file PD_ROI2_2D_FIT_DATA.csv.
-5.	Open the file DENTICLE_PLOTTER.py in an text editor and change the directory path in BLOCK 3 to where the .dat files have been stored.
+5.	Open the file DENTICLE_PLOTTER.py in an text editor and change the directory path in BLOCK 3 to where PD_ROI2_2D_FIT_DATA.csv has been stored.
 6.	Run DENTICLE_PLOTTER.py.
